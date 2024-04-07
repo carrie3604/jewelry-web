@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+    font-family: "Montserrat", sans-serif;
+       
+}
+
+body{
+    // announcement bar 
+    div.announcementBar{
+        background-color: rgb(222, 223, 215);
+        a{
+            text-decoration: none;
+            color: rgb(214, 108, 108);
+        }
+
+        
+    }
+
+    div.topLogoContainer{
+        background-color: #f1f0ea;
+        border: 1px solid #dace8a;
+        nav{
+            width: 50%;
+            height: 10vw;
+            
+            ul{ 
+                list-style-type: none;
+               
+                li{
+                   
+                    a{
+                       text-decoration: none;
+                       color: rgb(241, 192, 29);
+                       font-size: 1.25rem;
+                      
+                    }
+
+                    a.light{
+                        color: rgb(201, 150, 9);
+                        
+                    }
+                }
+
+
+            }
+            
+        }
+    }
+
+
+    #topLogo{
+        width: 10vw;
+        height: 10vw;
+        
+    }
+
+    section {
+        div{
+            img{
+                width: 32vw;
+                height: 30vw;
+            }
+        }
+    }
+
+
+
+}
+
+
+
+
+

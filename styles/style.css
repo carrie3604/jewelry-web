@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body div.announcementBar {
+  background-color: rgb(222, 223, 215);
+}
+body div.announcementBar a {
+  text-decoration: none;
+  color: rgb(214, 108, 108);
+}
+body div.topLogoContainer {
+  background-color: #f1f0ea;
+  border: 1px solid #dace8a;
+}
+body div.topLogoContainer nav {
+  width: 50%;
+  height: 10vw;
+}
+body div.topLogoContainer nav ul {
+  list-style-type: none;
+}
+body div.topLogoContainer nav ul li a {
+  text-decoration: none;
+  color: rgb(241, 192, 29);
+  font-size: 1.25rem;
+}
+body div.topLogoContainer nav ul li a.light {
+  color: rgb(201, 150, 9);
+}
+body #topLogo {
+  width: 10vw;
+  height: 10vw;
+}
+body section div img {
+  width: 32vw;
+  height: 30vw;
+}/*# sourceMappingURL=style.css.map */
